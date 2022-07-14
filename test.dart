@@ -1,4 +1,6 @@
+
+
 void main() {
-  const name = "Andy";
-  print(name);
+  int a = 10;
+  print(a.toDouble());
 }
