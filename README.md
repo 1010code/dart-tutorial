@@ -7,3 +7,4 @@
 ## 學習資源
 - [dart 官方](https://dart.dev/guides/language/language-tour)
 - [tutorialspoint tutorial](https://www.tutorialspoint.com/dart_programming/index.htm)
+- [HKT 線上教室](https://tw-hkt.blogspot.com/2019/08/2019-dart-83.html)
